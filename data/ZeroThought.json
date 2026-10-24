@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to copy",
     "records": [
+        {
+             "user": "MusicCreatorGuy",
+            "link": "https://the-mcl.btonyrl.workers.dev/#/",
+            "hz": "280",
+            "percent": 100
+        }
     ]
 }
